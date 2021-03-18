@@ -6,6 +6,14 @@ This solution uses a recursive backtracking algorithm to navigate possible paths
 
 ## How to Run
 
+This project depends on NPM packages for the test suite:
+
 > Install the test suite dependencies with `npm install`
 
 > Run the test suite with `npm run test`
+
+To use your own text file inputs (formatted like example.txt):
+
+> Run `node runSolver.js path/to/text/file`
+
+> For example: `node runSolver.js ./example.txt`
