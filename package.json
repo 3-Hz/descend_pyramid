@@ -1,0 +1,23 @@
+{
+  "name": "pyramid_descent",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "pyramidDescent.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3-Hz/pyramid_descent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3-Hz/pyramid_descent/issues"
+  },
+  "homepage": "https://github.com/3-Hz/pyramid_descent#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
